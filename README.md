@@ -42,13 +42,6 @@ Lately, I’ve also started exploring game development alongside web and app dev
 
 </div>
 
-<!-- Animated Campfire as divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
-
 <br>
 
 <div align="center">
@@ -93,6 +86,8 @@ Lately, I’ve also started exploring game development alongside web and app dev
   </table>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated divider" />
+
 <!-- Animated Flying Purple Bat -->
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" align="right"/>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" align="left"/>
@@ -110,7 +105,9 @@ Lately, I’ve also started exploring game development alongside web and app dev
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated divider" />
+
+<br>
 
 <!-- Full-width Profile Details -->
 <p align="center">
