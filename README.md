@@ -1,6 +1,6 @@
 <div align="center">
 
-![](assets/hello_world_banner.gif)
+![](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
 
 </div>
 
@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Android+Developer+in+Progress;Building+QuickPlan;Web+Developer+in+Progress;Curious+Mind+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Android+Developer;Building+QuickPlan;Web+Developer;Curious+Mind+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
@@ -74,7 +74,7 @@ Lately, I’ve also started exploring game development alongside web and app dev
     </tr>
     <tr>
       <td><strong>Developer Tools</strong></td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,webstorm,pycharm,anaconda,sublime&theme=dark" alt="Tools"></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,pycharm,anaconda&theme=dark" alt="Tools"></td>
     </tr>
     <tr>
       <td><strong>Operating Systems</strong></td>
@@ -107,6 +107,7 @@ Lately, I’ve also started exploring game development alongside web and app dev
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated divider" />
 
+<br>
 <br>
 
 <!-- Full-width Profile Details -->
